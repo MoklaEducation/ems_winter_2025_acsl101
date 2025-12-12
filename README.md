@@ -17,7 +17,7 @@
 
 ## Hacker Rank Gotchas
 - **Make sure to select right programming language**
-  - If you are programming in C/C++ ... make sure to select either C or C++ as they are two different languages
+  - If you are programming in C++(e.g. using cin/cout), make sure to select either C++ as it is different from C language and cin/cout won't work in C.
      - There are also C++14,C++20 which would work too but are slightly different.
   - If you are programming in Python, the 2 options are Python2 or Python3. Chose one that you are familiar with, latest is Python3
   - Similary for Java there are multiple versions of Java language you should try choosing Java, or if that does not work try using one of the other Java versions (like Java8, Java 15)
@@ -27,6 +27,11 @@
     - I see that some students are outputting a hello message e.g. ```cout<<"insert two numbers";``` This is not required and would actually cause your program to fail due to output mismatch.
     - Similarly when outputting the result just output the result and nothing else; The messages are going to hurt your score and make the output evaluate incorrectly
 - If you are in doubt about the code , run it in your IDE first and then paste in hackerank, that way you can debug better locally.
+
+## Test Rules
+- This test must be complete individually, all the work should be participant’s own. 
+- Using AI tools, looking up solutions or collaboration is prohibited
+- However participant’s may use textbook/programming manual to look up programming syntax only or apis.
 
 ## Contact
 Sankalp Gupta
