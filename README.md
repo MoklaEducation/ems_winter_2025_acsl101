@@ -29,9 +29,9 @@
 - If you are in doubt about the code , run it in your IDE first and then paste in hackerank, that way you can debug better locally.
 
 ## Test Rules
-- This test must be complete individually, all the work should be participant’s own. 
+- This test must be completed individually, all the work should be student’s own. 
 - Using AI tools, looking up solutions or collaboration is prohibited
-- However participant’s may use textbook/programming manual to look up programming syntax only or apis.
+- **However students may use textbook/programming manual to look up programming syntax only or apis.**
 
 ## Contact
 Sankalp Gupta
