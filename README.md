@@ -26,7 +26,11 @@
   - **Don't**
     - I see that some students are outputting a hello message e.g. ```cout<<"insert two numbers";``` This is not required and would actually cause your program to fail due to output mismatch.
     - Similarly when outputting the result just output the result and nothing else; The messages are going to hurt your score and make the output evaluate incorrectly
-- If you are in doubt about the code , run it in your IDE first and then paste in hackerank, that way you can debug better locally. 
+- If you are in doubt about the code , run it in your IDE first and then paste in hackerank, that way you can debug better locally.
+
+## Contact
+Sankalp Gupta
+[moklaeducation@gmail.com](mailto:moklaeducation@gmail.com)
 
 
     
