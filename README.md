@@ -6,7 +6,7 @@
 - For students facing issues like compilation error please see the [Hacker Rank Gotchas](#hacker-rank-Gotchas)
 
 ## Hacker Rank Signup
-- You need to create a account at [Hacker Rank](www.hackerrank.com)
+- You need to create a account at [Hacker Rank](https://www.hackerrank.com)
   - This is fast and free.
   - Same account would be used for both **for the placement test as well as ACSL**
 - Once logged in you can visit [EMS ACSL Placement test 2025](https://www.hackerrank.com/ems-acsl-placement-test-2025) and click on sign up.
