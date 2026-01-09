@@ -1,6 +1,17 @@
 # Exploring Computer Science Concepts via ACSL
 
-## Latest News 9:00 pm PST 12/11/2025
+## Update 1/9/2026
+- Hacker rank tests due by 1/11 8:59 pm PST
+  - There are two tests, 1 quiz and 1 programming
+  - quiz : 30 min fixed duration 
+  - programming : 1- 2 hours over a span of 2 days. 
+- Knowledge required
+  - quiz : numbers systems inter conversion( octal, binary hexadecimal)
+  - programming 
+    - arrays : double dimension
+    - loops : nested
+
+## Update 12/11/2025
 - The Programming placement test is underway at hackerrank url [EMS ACSL Placement test 2025](https://www.hackerrank.com/ems-acsl-placement-test-2025)
   - The [Hacker Rank Signup Steps](#hacker-rank-signup) steps are below.
 - For students facing issues like compilation error please see the [Hacker Rank Gotchas](#hacker-rank-Gotchas)
