@@ -1,5 +1,17 @@
 # Exploring Computer Science Concepts via ACSL
 
+## Update 1/15/2026
+
+- Discussed the test 1 results 
+  - Overall students did better in quiz with 8 /15 getting full marks 
+  - In programming 5 students got full marks and 5 got 5/6 marks
+- Students learnt Infix, prefix postfix, expressions
+  - What are these expressions?
+  - How to comprehend them 
+  - Evaluation
+    - Without stack (harder)
+    - With stack (easier)
+
 ## Update 1/9/2026
 - Hacker rank tests due by 1/11 8:59 pm PST
   - There are two tests, 1 quiz and 1 programming
