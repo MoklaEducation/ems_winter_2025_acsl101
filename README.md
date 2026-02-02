@@ -1,5 +1,15 @@
 # Exploring Computer Science Concepts via ACSL
 
+## Update 1/29/2026
+- Created a practice test [ACSL_Test2_Practise](https://www.hackerrank.com/acsltest2practise)
+- Students have learnt 
+  - prefix/postfix expressions 
+    - evaluatung and converting them
+  - Bitwise operators
+    - Logical 
+    - Shift
+- ACSL Test 2 open this week. due 1/3 by 9:00 pm PST
+
 ## Update 1/15/2026
 
 - Discussed the test 1 results 
