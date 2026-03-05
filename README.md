@@ -1,7 +1,7 @@
 # Exploring Computer Science Concepts via ACSL
 
 ## Update 2/26/2026
-- Create a practise test [ACSL_Test3_practise](https://www.hackerrank.com/acsltest3practise)
+- Created a practise test [ACSL_Test3_practise](https://www.hackerrank.com/acsltest3practise)
 - Completing Boolean Algebra 
 
 
